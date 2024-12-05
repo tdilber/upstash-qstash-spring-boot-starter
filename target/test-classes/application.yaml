@@ -1,0 +1,8 @@
+server:
+  port: 5533
+
+spring:
+  qstash:
+    endpoint: https://qstash.upstash.io
+    apiKey: fromVMOptions
+    appEndpoint: fromVMOptions
